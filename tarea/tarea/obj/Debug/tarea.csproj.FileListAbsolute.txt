@@ -1,0 +1,8 @@
+C:\Users\florv\source\repos\tarea\tarea\bin\Debug\tarea.exe.config
+C:\Users\florv\source\repos\tarea\tarea\bin\Debug\tarea.exe
+C:\Users\florv\source\repos\tarea\tarea\bin\Debug\tarea.pdb
+C:\Users\florv\source\repos\tarea\tarea\obj\Debug\tarea.csproj.AssemblyReference.cache
+C:\Users\florv\source\repos\tarea\tarea\obj\Debug\tarea.csproj.SuggestedBindingRedirects.cache
+C:\Users\florv\source\repos\tarea\tarea\obj\Debug\tarea.csproj.CoreCompileInputs.cache
+C:\Users\florv\source\repos\tarea\tarea\obj\Debug\tarea.exe
+C:\Users\florv\source\repos\tarea\tarea\obj\Debug\tarea.pdb
